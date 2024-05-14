@@ -26,6 +26,6 @@ func main() {
 
 	w.SetContent(makeUI(button))
 
-	a.Run()
 	w.Show()
+	a.Run()
 }
